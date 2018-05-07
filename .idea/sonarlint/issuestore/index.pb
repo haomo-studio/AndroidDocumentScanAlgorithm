@@ -1,0 +1,19 @@
+
+t
+Dapp/src/main/java/space/bestysh/scanner/yshscanner/MainActivity.java,0/c/0c276e15dbe8f882e43cb3c3073417c9854ecf70
+O
+app/src/main/jni/Application.mk,6/9/69e22711bd0c53f58afb400d4664a3c6bbe9f605
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+b
+2app/src/main/jni/space_bestysh_scanner_Scanner.cpp,a/6/a6d4412094ad73dec0feb34e62a7038b0e7639f9
+d
+4app/src/main/java/space/bestysh/scanner/Scanner.java,c/1/c1693494d06af464c5550b0a83bb7ca9b79d3e05
+`
+0app/src/main/jni/space_bestysh_scanner_Scanner.h,2/a/2a4b7259fda6bb77dc99ac51b88c81d87847e424
+K
+app/src/main/jni/Android.mk,3/7/3732d5f05cd38f2c911ca453782316be1e030cf5
+O
+app/src/main/cpp/native-lib.cpp,0/5/05b06ab0d5ff3a29c39bddac9c41f1011ad7a055
